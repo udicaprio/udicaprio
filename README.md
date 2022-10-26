@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I am Ulderico Di Caprio, an Italian chemical engineer based in Belgium. 
-I am currently working on my PhD @KULeuven. My 
+
+I am currently working on my PhD at KULeuven, in Belgium. My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques.
 
 <!--
 **udicaprio/udicaprio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
