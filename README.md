@@ -4,7 +4,7 @@
 
 I am Ulderico Di Caprio, an Italian chemical engineer based in Belgium. 
 
-I am currently working on my PhD at KULeuven, in Belgium. My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques.
+I am currently working on my PhD at KULeuven, in <a href = "https://iiw.kuleuven.be/onderzoek/cipt/about-cipt">CIPT group</a>. My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques.
 
 <h3 align="left">Check out my latest paper:</h3>
 <a href = "https://doi.org/10.1016/B978-0-323-95879-0.50236-8"> Optimization of an artificial neural network structure for modelling carbon capture in spray columns </a>
