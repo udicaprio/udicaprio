@@ -1,4 +1,4 @@
-<img src = "Intro GitHub.jpg">
+<img src = "Intro GitHub.jpg"  width="25%" height="25%">
 
 ### Hi there 👋
 
