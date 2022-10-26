@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Ulderico Di Caprio, an Italian chemical engineer based in Belgium. 
+I am currently working on my PhD @KULeuven. My 
+
 <!--
 **udicaprio/udicaprio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
