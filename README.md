@@ -1,3 +1,5 @@
+<img src = "Intro GitHub.jpg">
+
 ### Hi there 👋
 
 I am Ulderico Di Caprio, an Italian chemical engineer based in Belgium. 
