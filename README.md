@@ -10,7 +10,7 @@ I am currently working on my PhD at KULeuven, in <a href = "https://iiw.kuleuven
 - 💬 Ask me about hybrid modelling application in chemical engineering
 
 <h3 align="left">Check out my latest paper:</h3>
-<a href = "https://doi.org/10.1016/B978-0-323-95879-0.50236-8"> Optimization of an artificial neural network structure for modelling carbon capture in spray columns </a>
+<a href = "https://doi.org/10.1016/j.jcou.2023.102452" target="blank"> Predicting overall mass transfer coefficients of CO<sub>2</sub> capture into monoethanolamine in spray columns with hybrid machine learning </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
