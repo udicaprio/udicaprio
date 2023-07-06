@@ -10,8 +10,8 @@ I am currently working on my PhD at KULeuven, in <a href = "https://iiw.kuleuven
 - 💬 Ask me about hybrid modelling application in chemical engineering
 
 <h3 align="left">Check out my latest papers:</h3>
-<a href = "https://doi.org/10.1016/j.jcou.2023.102452" target="_blank"> Hybrid modelling of a batch separation process </a><p>
-<a href = "https://doi.org/10.1016/j.compchemeng.2023.108319" target="_blank"> Predicting overall mass transfer coefficients of CO<sub>2</sub> capture into monoethanolamine in spray columns with hybrid machine learning </a>
+<a href = "https://doi.org/10.1016/j.compchemeng.2023.108319" target="_blank"> Hybrid modelling of a batch separation process </a><p>
+<a href = "https://doi.org/10.1016/j.jcou.2023.102452" target="_blank"> Predicting overall mass transfer coefficients of CO<sub>2</sub> capture into monoethanolamine in spray columns with hybrid machine learning </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
