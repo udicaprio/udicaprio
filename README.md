@@ -4,14 +4,14 @@
 
 I am Ulderico Di Caprio, an Italian chemical engineer based in Belgium. 
 
-I am currently working on my PhD at KULeuven, in <a href = "https://iiw.kuleuven.be/onderzoek/cipt/about-cipt">CIPT group</a>. My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques.
+I am currently a postdoctoral researcher at KULeuven, in <a href = "https://iiw.kuleuven.be/onderzoek/cipt/about-cipt">CIPT group</a>. My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques.
 
 - 🌱 I’m currently learning Julia
 - 💬 Ask me about hybrid modelling application in chemical engineering
 
 <h3 align="left">Check out my latest papers:</h3>
-<a href = "https://doi.org/10.1016/j.compchemeng.2023.108319" target="_blank"> Hybrid modelling of a batch separation process </a><p>
-<a href = "https://doi.org/10.1016/j.jcou.2023.102452" target="_blank"> Predicting overall mass transfer coefficients of CO<sub>2</sub> capture into monoethanolamine in spray columns with hybrid machine learning </a>
+<a href = "https://doi.org/10.1016/j.cej.2023.146104" target="_blank"> HybridGamma: A thermodynamically consistent framework for hybrid modelling of activity coefficients </a><br>
+<a href = "https://doi.org/10.1016/j.ece.2023.09.004" target="_blank"> An artificial intelligence course for chemical engineers </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
