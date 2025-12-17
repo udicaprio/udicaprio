@@ -9,7 +9,7 @@ I am currently a FWO postdoctoral researcher at KULeuven, in [CREaS group](https
 - 💬 Ask me about hybrid modelling application in chemical engineering
 
 ### Check out my latest papers
-[Physics-informed machine learning predicting CO2 capture performances of organic mixtures](https://doi.org/10.1016/j.cep.2025.110410)
+[Physics-informed machine learning predicting CO2 capture performances of organic mixtures](https://doi.org/10.1016/j.cep.2025.110410)<br>
 [ExPUFFIN: Thermodynamic Consistent Viscosity Prediction in an Extended Path-Unifying Feed-Forward Interfaced Network](https://arxiv.org/abs/2512.06927)
 
 ### Connect with me:
