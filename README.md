@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I am Ulderico Di Caprio, an Italian chemical engineer based in Belgium. 
+I am Ulderico Di Caprio, an Italian chemical engineer based in the Netherlands. 
 
-I am currently a FWO postdoctoral researcher at KULeuven, in [CREaS group](https://cit.kuleuven.be/creas). My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques. You can find further information about my work on my [website](https://udicaprio.github.io/).
+I am currently an MSCA postdoctoral fellow at [TU Delft](https://www.tudelft.nl/), in [Process Intelligence Research Group]([https://cit.kuleuven.be/creas](https://www.pi-research.org/)). My research topic is about the application of machine learning techniques in chemical engineering using hybrid modelling techniques. You can find further information about my work on my [website](https://udicaprio.github.io/).
 
-- 💬 Ask me about hybrid modelling application in chemical engineering
+- 💬 Ask me about hybrid modelling applications in chemical engineering
 
 ### Check out my latest papers
 [Physics-informed machine learning predicting CO2 capture performances of organic mixtures](https://doi.org/10.1016/j.cep.2025.110410)<br>
